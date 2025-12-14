@@ -1,0 +1,6 @@
+../Core/Src/ref_output.c:25:13:RefOutput_FillHalfBuffer	20	static
+../Core/Src/ref_output.c:34:6:RefOutput_Init	8	static
+../Core/Src/ref_output.c:48:6:RefOutput_Start	16	static
+../Core/Src/ref_output.c:56:6:HAL_DAC_ConvHalfCpltCallbackCh1	0	static
+../Core/Src/ref_output.c:61:6:HAL_DAC_ConvCpltCallbackCh1	0	static
+../Core/Src/ref_output.c:67:6:RefOutput_Service	8	static

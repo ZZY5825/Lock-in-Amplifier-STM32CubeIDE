@@ -1,4 +1,5 @@
-Core/Src/buttons.o: ../Core/Src/buttons.c ../Core/Inc/lia_settings.h \
+Core/Src/buttons.o: ../Core/Src/buttons.c ../Core/Inc/buttons.h \
+ ../Core/Inc/debounce.h ../Core/Inc/lia_config.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
  ../Core/Inc/stm32f4xx_hal_conf.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
@@ -32,8 +33,10 @@ Core/Src/buttons.o: ../Core/Src/buttons.c ../Core/Inc/lia_settings.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
- ../Core/Inc/buttons.h ../Core/Inc/debounce.h ../Core/Inc/main.h
-../Core/Inc/lia_settings.h:
+ ../Core/Inc/lia_config.h ../Core/Inc/main.h
+../Core/Inc/buttons.h:
+../Core/Inc/debounce.h:
+../Core/Inc/lia_config.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
 ../Core/Inc/stm32f4xx_hal_conf.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h:
@@ -67,6 +70,5 @@ Core/Src/buttons.o: ../Core/Src/buttons.c ../Core/Inc/lia_settings.h \
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:
-../Core/Inc/buttons.h:
-../Core/Inc/debounce.h:
+../Core/Inc/lia_config.h:
 ../Core/Inc/main.h:

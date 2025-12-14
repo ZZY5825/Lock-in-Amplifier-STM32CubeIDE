@@ -1,0 +1,9 @@
+../Core/Src/lia_core.c:191:13:LIA_UpdateAlpha	3
+../Core/Src/lia_core.c:200:13:LIA_ProcessBlock.constprop	4
+../Core/Src/lia_core.c:19:7:phase_cali	10
+../Core/Src/lia_core.c:73:7:amp_cali	8
+../Core/Src/lia_core.c:120:7:amp_fine_tune	4
+../Core/Src/lia_core.c:156:7:phase_fine_tune	5
+../Core/Src/lia_core.c:181:7:LIA_ComputeResponse	1
+../Core/Src/lia_core.c:235:6:LIA_SystemInit	4
+../Core/Src/lia_core.c:274:6:LIA_Task	9

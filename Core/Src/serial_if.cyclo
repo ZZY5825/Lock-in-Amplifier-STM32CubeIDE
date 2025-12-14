@@ -1,0 +1,4 @@
+../Core/Src/serial_if.c:7:6:Serial_Print	1
+../Core/Src/serial_if.c:12:6:Serial_Printf	1
+../Core/Src/serial_if.c:22:5:Serial_ReadLine	6
+../Core/Src/serial_if.c:45:5:Serial_ReadFloat	2

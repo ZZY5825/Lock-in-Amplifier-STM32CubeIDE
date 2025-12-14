@@ -1,0 +1,6 @@
+../Core/Src/lia_nco.c:11:6:LIA_NCO_GenerateLUT	16	static
+../Core/Src/lia_nco.c:20:17:phase_from_offset	24	static
+../Core/Src/lia_nco.c:30:6:LIA_NCO_Init	24	static
+../Core/Src/lia_nco.c:38:6:LIA_NCO_SetFs	16	static
+../Core/Src/lia_nco.c:44:6:LIA_NCO_SetFreq	40	static
+../Core/Src/lia_nco.c:63:6:LIA_NCO_SetPhaseOffset	16	static

@@ -1,0 +1,5 @@
+../Core/Src/bsp_dma.c:3:6:BSP_DMA_EnableClocks	1
+../Core/Src/bsp_dma.c:9:6:BSP_DMA_DisableClocks	1
+../Core/Src/bsp_dma.c:15:6:BSP_DMA_EnableIRQ	1
+../Core/Src/bsp_dma.c:21:6:BSP_DMA_DisableIRQ	1
+../Core/Src/bsp_dma.c:26:6:BSP_DMA_Init	1

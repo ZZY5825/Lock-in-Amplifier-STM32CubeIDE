@@ -1,0 +1,4 @@
+../Core/Src/buttons.c:16:6:Buttons_Init	8	static
+../Core/Src/buttons.c:28:6:Buttons_OnExti	16	static
+../Core/Src/buttons.c:40:6:Buttons_Service	8	static
+../Core/Src/buttons.c:56:6:HAL_GPIO_EXTI_Callback	16	static

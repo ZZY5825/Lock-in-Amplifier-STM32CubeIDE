@@ -1,0 +1,9 @@
+../Core/Src/adc_dma_sampler.c:12:6:ADC_DMA_Sampler_Init	3
+../Core/Src/adc_dma_sampler.c:23:19:ADC_DMA_Sampler_Start	5
+../Core/Src/adc_dma_sampler.c:37:6:ADC_DMA_Sampler_Stop	3
+../Core/Src/adc_dma_sampler.c:50:9:ADC_DMA_Sampler_IsHalfReady	1
+../Core/Src/adc_dma_sampler.c:55:9:ADC_DMA_Sampler_IsFullReady	1
+../Core/Src/adc_dma_sampler.c:60:6:ADC_DMA_Sampler_ClearHalfFlag	1
+../Core/Src/adc_dma_sampler.c:65:6:ADC_DMA_Sampler_ClearFullFlag	1
+../Core/Src/adc_dma_sampler.c:73:6:HAL_ADC_ConvHalfCpltCallback	2
+../Core/Src/adc_dma_sampler.c:81:6:HAL_ADC_ConvCpltCallback	2

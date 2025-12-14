@@ -1,0 +1,7 @@
+../Core/Src/lia_concole.c:8:6:LiaConsole_SetEcho	16	static
+../Core/Src/lia_concole.c:13:6:LiaConsole_Print	16	static
+../Core/Src/lia_concole.c:19:6:LiaConsole_Printf	144	static
+../Core/Src/lia_concole.c:29:20:echo_char	16	static
+../Core/Src/lia_concole.c:36:20:echo_backspace	16	static
+../Core/Src/lia_concole.c:43:5:LiaConsole_ReadLine	24	static
+../Core/Src/lia_concole.c:85:5:LiaConsole_ReadFloat	64	static

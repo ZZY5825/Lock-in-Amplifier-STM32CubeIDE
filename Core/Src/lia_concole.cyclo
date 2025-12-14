@@ -1,0 +1,7 @@
+../Core/Src/lia_concole.c:8:6:LiaConsole_SetEcho	1
+../Core/Src/lia_concole.c:13:6:LiaConsole_Print	2
+../Core/Src/lia_concole.c:19:6:LiaConsole_Printf	1
+../Core/Src/lia_concole.c:29:20:echo_char	2
+../Core/Src/lia_concole.c:36:20:echo_backspace	2
+../Core/Src/lia_concole.c:43:5:LiaConsole_ReadLine	11
+../Core/Src/lia_concole.c:85:5:LiaConsole_ReadFloat	5
